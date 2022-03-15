@@ -1,0 +1,54 @@
+<html>
+<head>
+<title> Design Principles </title>
+</head>
+<body>
+  <body style="background-color:pink">
+
+    <h1> Design Principles in Practice </h1>
+    <ol>
+  
+      <h2> <span style="color:yellow;"><li>Contrast</span> </h2> </li>
+    <p> There was a lot of examples to choose from for contrast. I am choosing the example of the Pinterest website for the following reasons:
+      
+
+<ul>
+  <li>The <span style="color:red">red </span>logo provides a powerful contrast to the white background</li>
+<li>This accent color is used sparingly but also shows up in the <span style="color:red">red </span> "save" button</li> </ul>
+  <br>
+
+  Sample photo: <img src="pinterest.png" alt="pinterest sample" style="width:500px;height:600px;"> 
+  <br>
+  <br>
+  Website link:  <a href="www.pinterest.com">Visit Pinterest</a> </p>
+    <span style="color:purple;font-weight=bold"><h2>  <li> Repetition </h2> <span style="color:hotpink;font-weight=bold"> <h2> Repetition </h2></span></li>
+  <p> My sample for repetition is a unique website that uses interactive boxes to create engagement among its users. 
+
+<dl>
+  <dt>Although the <strong>boxes</strong> are different positions and sizes</dt>
+  <dd> The repetition of the many boxes creates a sense of order amongst the chaos </dd>
+  <br>
+  <dt>The boxes themselves</dt>
+  <dd> All have rounded edges and are the same shape in different sizes which also unifies the page</dd>
+</dl>
+<br>
+
+  Sample photo: <img src="mad.png" alt="mad website sample" style="width:500px;height:600px;"> 
+  <br>
+  <br>
+  Website link:  <a href="https://mad.ac/">Visit Mad</a> </p>
+
+ <h2 style="text-align:center;"><span style="color:white;font-weight=bold"><li>Alignment </li></h2> </span>
+  <span style="color:white"> <p style="text-align:center;">I enjoyed this website that displays the work of Yusuke Fukunaga which utilizes paralax effect and infinite scroll. </p>
+    <ul style="text-align:center">
+      <li> This website takes uses an organized grid layout to showcase the work of Yusuke Fukunaga</li>
+     <li> the use of the grid layout allows the viewer to see what a large portfolio the creator of the website has. </li></ul>
+    
+<br>
+<p style="text-align:center;">
+  Sample photo: <img src="portfolio.png" alt="yusuke fukunaga website sample" style="width:500px;height:600px;"> 
+  <br>
+  <br>
+  Website link:  <a href="https://yusukefukunaga.com/">Visit Yusuke Fukunaga</a> </p>
+  
+ 
